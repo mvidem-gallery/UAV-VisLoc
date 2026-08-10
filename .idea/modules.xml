@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/UAV-VisLoc.iml" filepath="$PROJECT_DIR$/.idea/UAV-VisLoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lightglue.iml" filepath="$PROJECT_DIR$/.idea/lightglue.iml" />
     </modules>
   </component>
 </project>
